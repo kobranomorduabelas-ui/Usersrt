@@ -25,7 +25,7 @@
         "username": "srt01",
         "password": "pass123",
         "expirydate": "30-02-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     }
     
 ]
